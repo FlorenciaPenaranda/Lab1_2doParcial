@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1562707121 source:c:\users\franor srl\desktop\fotografia\reveladodigital\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"controller.h"
+	"revelado.h"
+	"parser.h"
+
+1562714133 source:c:\users\franor srl\desktop\fotografia\reveladodigital\revelado.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"revelado.h"
+	"validaciones.h"
+	"LinkedList.h"
+
+1562712360 c:\users\franor srl\desktop\fotografia\reveladodigital\revelado.h
+	"LinkedList.h"
+
+1562615437 c:\users\franor srl\desktop\fotografia\reveladodigital\validaciones.h
+
+1562616690 source:c:\users\franor srl\desktop\fotografia\reveladodigital\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"validaciones.h"
+
+1562711550 source:c:\users\franor srl\desktop\fotografia\reveladodigital\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1562705508 c:\users\franor srl\desktop\fotografia\reveladodigital\linkedlist.h
+
+1562556929 source:c:\users\franor srl\desktop\fotografia\reveladodigital\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"revelado.h"
+
+1562707612 c:\users\franor srl\desktop\fotografia\reveladodigital\controller.h
+
+1562556572 c:\users\franor srl\desktop\fotografia\reveladodigital\parser.h
+
+1562713912 source:c:\users\franor srl\desktop\fotografia\reveladodigital\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"revelado.h"
+	"parser.h"
+	"validaciones.h"
+
